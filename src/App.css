@@ -1,0 +1,18 @@
+table.table {
+  table-layout: auto;
+  display: inline-block;
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+h3 {
+  text-align: center;
+  border: 3px solid rgb(55, 7, 7);
+}
